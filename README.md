@@ -4,8 +4,8 @@
 
 ### Tested on:
 
-- [y] **PocketMine-MP (API 3.0.0+)**
-- [y] **Altay (API 3.0.0+)**
+- [x] **PocketMine-MP (API 3.0.0+)**
+- [x] **Altay (API 3.0.0+)**
 
 ### Features:
 
