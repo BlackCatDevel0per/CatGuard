@@ -16,15 +16,15 @@ use cat\guard\command\argument\Argument;
 use cat\guard\command\argument\FlagArgument;
 use cat\guard\command\argument\ListArgument;
 use cat\guard\command\argument\WandArgument;
-use cat\guard\command\argument\OwnerArgument;
-use cat\guard\command\argument\CreateArgument;
 use cat\guard\command\argument\MemberArgument;
 use cat\guard\command\argument\RemoveArgument;
+use cat\guard\command\argument\OwnerArgument;
+use cat\guard\command\argument\CreateArgument;
 use cat\guard\command\argument\PositionArgument;
 
 
-use pocketmine\command\CommandSender;
 use pocketmine\command\Command;
+use pocketmine\command\CommandSender;
 
 use pocketmine\permission\Permission;
 use pocketmine\Player;
@@ -39,7 +39,7 @@ abstract class GuardCommand extends Command
 	 * @todo this values should be configurable.
 	 */
 	const NAME        = 'rg';
-	const DESCRIPTION = 'Показывает помощь или список команд управления регионами';
+	const DESCRIPTION = 'Помощь и команды';
 	const PERMISSION  = 'catguard.command.rg';
 
 
