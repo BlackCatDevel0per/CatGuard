@@ -23,10 +23,6 @@ Permission | Description | Default
 `catguard.noflag` | Ignore region flags. | OP.
 `catguard.all` | Full access. | OP.
 
-### Need help?
-
-Telegram: https://t.me/joinchat/EbZB3BKGfstWw6UwYaBKHQ
-
 <a name="RUS"></a>
 
 ## Русский.
