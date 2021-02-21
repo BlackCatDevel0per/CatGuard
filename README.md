@@ -23,6 +23,8 @@ Permission | Description | Default
 `catguard.noflag` | Ignore region flags. | OP.
 `catguard.all` | Full access. | OP.
 
+### Ideas for improving the plugin: 333blackcat333@mail.ru
+
 <a name="RUS"></a>
 
 ## Русский.
@@ -49,3 +51,5 @@ Permission | Description | Default
 `catguard.command.rg` | Доступ к основной команде /rg. | Для всех игроков.
 `catguard.noflag` | Игнорирование всех флагов. | Для операторов.
 `catguard.all` | Полный доступ. | Для операторов.
+
+### Идеи по улучшению плагина: 333blackcat333@mail.ru
