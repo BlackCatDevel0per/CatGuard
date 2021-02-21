@@ -4,8 +4,8 @@
 
 ### Tested on:
 
-- [x] **PocketMine-MP (API 3.0.0+)**
-- [x] **Altay (API 3.0.0+)**
+- [] **PocketMine-MP (API 3.0.0+)**
+- [] **Altay (API 3.0.0+)**
 
 ### Features:
 
@@ -31,8 +31,8 @@ Permission | Description | Default
 
 ### Протестировано на:
 
-- [x] **PocketMine-MP (API 3.0.0+)**
-- [x] **Altay (API 3.0.0+)**
+- [] **PocketMine-MP (API 3.0.0+)**
+- [] **Altay (API 3.0.0+)**
 
 ### Особенности:
 
